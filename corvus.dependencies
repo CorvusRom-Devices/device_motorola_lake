@@ -22,5 +22,23 @@
     "repository":  "CorvusRom-Devices/device_motorola_sdm660-common",
     "target_path": "device/motorola/sdm660-common",
     "branch":      "corvus-r"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_system_qcom",
+    "target_path": "android/system/qcom",
+    "branch":      "lineage-18.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_external_bson",
+    "target_path": "android/external/bson",
+    "branch":      "lineage-18.1"
+  },
+  {
+    "remote":      "github",
+    "repository":  "PixelExperience/packages_resources_devicesettings-custom",
+    "target_path": "packages/resources/devicesettings-custom",
+    "branch":      "eleven"
   }
 ]
