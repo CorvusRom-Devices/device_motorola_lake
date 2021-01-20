@@ -40,5 +40,17 @@
     "repository":  "PixelExperience/packages_resources_devicesettings-custom",
     "target_path": "packages/resources/devicesettings-custom",
     "branch":      "eleven"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_hardware_qcom_display",
+    "target_path": "hardware/qcom-caf/msm8998/display",
+    "branch":      "lineage-18.1-caf-msm8998"
+  },
+  {
+    "remote":      "github",
+    "repository":  "LineageOS/android_hardware_qcom_media",
+    "target_path": "hardware/qcom-caf/msm8998/media",
+    "branch":      "lineage-18.1-caf-msm8998"
   }
 ]
