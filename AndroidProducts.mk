@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/coruvs_lake.mk
+    $(LOCAL_DIR)/corvus_lake.mk
 
 COMMON_LUNCH_CHOICES := \
-    coruvs_lake-eng \
-    coruvs_lake-user \
-    coruvs_lake-userdebug
+    corvus_lake-eng \
+    corvus_lake-user \
+    corvus_lake-userdebug
